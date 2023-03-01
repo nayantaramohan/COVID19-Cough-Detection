@@ -37,7 +37,7 @@ There is a significant impact on the industry: a prospective, entirely digital C
 │   ├── config.json
 │   └── pytorch_model.bin
 ├── hubert_test.ipynb
-├──hubert_train.ipynb
+├── hubert_train.ipynb
 ├── LICENSE
 ├── README.md
 └──  requirements.txt
