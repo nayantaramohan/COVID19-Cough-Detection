@@ -40,7 +40,7 @@ There is a significant impact on the industry: a prospective, entirely digital C
 ├── hubert_train.ipynb
 ├── LICENSE
 ├── README.md
-└──  requirements.txt
+└── requirements.txt
 
 
 ```
