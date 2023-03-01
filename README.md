@@ -1,5 +1,5 @@
 
-[![GitHub license](https://img.shields.io/github/license/nayantaramohan/data512-project-repo)](https://github.com/nayantaramohan/data512-project-repo/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/nayantaramohan/DATA-591-Team-Virufy)](https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/LICENSE)
 
 # DATA 591 Winter 2023: Data Science Capstone
 ## COVID-19 detection on cough audio samples using HUBERT 
@@ -22,8 +22,10 @@ Sponsor: Virufy
 ├── model
 │   ├── config.json
 │   └── pytorch_model.bin
-├── output_viz
+├── images
 │   ├── img-tentative.png
+│   ├── uw-logo.png
+│   └── virufy-logo.png
 ├── LICENSE
 ├── README.md
 ├── hubert_test.ipynb
@@ -32,16 +34,20 @@ Sponsor: Virufy
 ```
 
 ## Input Data & Sources
-1. **RAW_us_confirmed_cases.csv**: The RAW_us_confirmed_cases.csv file from the Kaggle repository of [John Hopkins University COVID-19 data](https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university).     
-Description: Total number of daily confirmed covid cases across various counties in the United States.  
+1. **virufy-cdf-coswara**: [description to be added - high level]
+2. **virufy-cdf-coughvuid**: [description to be added - high level]
+3. **virufy-cdf-india-clinical-1**: [description to be added - high level]
 
-
-## Data Licenses
-1. COVID-19 confirmed cases from John Hopkins University - [Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/)
-
+Total number of samples:
+Number of training samples:
+Number of validation samples:
 
 ## Special Considerations
-- Lala
+- [Explain the limitation of number of positive samples being less...lala... final number of samples taken for our analysis is....]
+
+## Data Licenses
+All the data sets are a property of Virufy and is not to be accessed by public.   
+[Link to the privacy policy](https://drive.google.com/file/d/1EB_9q8nSxvJXWMtCfxCWmisM-n03TJYz/view)
 
 
 ## Snapshot of Analysis Output
@@ -57,8 +63,8 @@ Description: Total number of daily confirmed covid cases across various counties
 - Description of all data files present in the repository mentioned
 
 
-## Author
-[Charles Reinertson](https://github.com/charles-reinertson)
-[Nayantara Mohan](https://github.com/nayantaramohan) 
+## Authors
+[Charles Reinertson](https://github.com/charles-reinertson)  
+[Nayantara Mohan](https://github.com/nayantaramohan)  
 [Urmika Kasi](https://github.com/urmikakasi)
 
