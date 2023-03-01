@@ -1,5 +1,5 @@
 
-[![GitHub license](https://img.shields.io/github/license/nayantaramohan/DATA-591-Team-Virufy)](https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/LICENSE)
+[![GitHub license](https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/LICENSE)](https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/LICENSE)
 
 # DATA 591 Winter 2023: Data Science Capstone
 ## COVID-19 detection on cough audio samples using HUBERT 
