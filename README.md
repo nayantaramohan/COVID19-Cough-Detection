@@ -41,8 +41,6 @@ There is a significant impact on the industry: a prospective, entirely digital C
 ├── LICENSE
 ├── README.md
 └── requirements.txt
-
-
 ```
 
 ## Input Data & Sources
