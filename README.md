@@ -1,7 +1,4 @@
-
-[![GitHub license](https://img.shields.io/github/license/nayantaramohan/DATA-591-Team-Virufy)](https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/LICENSE)
-
-![logo file](/images/uw-logo.png)
+![](/images/uw-logo.png | width=400)
 
 # DATA 591 Winter 2023: Data Science Capstone (Sponsor: Virufy)
 ## COVID-19 detection on cough audio samples using HUBERT 
