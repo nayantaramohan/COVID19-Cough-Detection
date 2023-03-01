@@ -1,9 +1,11 @@
 
-[![GitHub license](https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/LICENSE)](https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/nayantaramohan/DATA-591-Team-Virufy)](https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/LICENSE)
 
-# DATA 591 Winter 2023: Data Science Capstone
+![logo file](/images/uw-logo.png)
+
+# DATA 591 Winter 2023: Data Science Capstone (Sponsor: Virufy)
 ## COVID-19 detection on cough audio samples using HUBERT 
-Sponsor: Virufy
+
 
 ## Goal
 
@@ -28,6 +30,7 @@ Sponsor: Virufy
 │   └── virufy-logo.png
 ├── LICENSE
 ├── README.md
+├── requirements.txt
 ├── hubert_test.ipynb
 └── hubert_train.ipynb
 
@@ -51,8 +54,9 @@ All the data sets are a property of Virufy and is not to be accessed by public.
 
 
 ## Snapshot of Analysis Output
-### 1.	How did masking policies change the progression of confirmed COVID-19 cases from February 1, 2020, through October 1, 2021?
-![Question1](output_viz/img1_common_analysis.png)  
+[Add image of the pipeline]
+[Add image of the confusion matrix]
+[high level explanation]
 
 
 ## Best practices for documentation
