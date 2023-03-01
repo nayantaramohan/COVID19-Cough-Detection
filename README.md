@@ -24,18 +24,24 @@ There is a significant impact on the industry: a prospective, entirely digital C
 │   ├── virufy-cdf-india-clinical-1
 │   ├── model_train_data_set_1_public.csv
 │   └── model_val_data_set_1_public.csv
-├── model
-│   ├── config.json
-│   └── pytorch_model.bin
+├── documentation
+│   ├── virufy-data-exploration.pdf
+│   ├── virufy-project-proposal.pdf
+│   ├── virufy-poster.pdf
+│   └── virufy-team-bios.pdf
 ├── images
 │   ├── img-tentative.png
 │   ├── uw-logo.png
 │   └── virufy-logo.png
+├── model
+│   ├── config.json
+│   └── pytorch_model.bin
+├── hubert_test.ipynb
+├──hubert_train.ipynb
 ├── LICENSE
 ├── README.md
-├── requirements.txt
-├── hubert_test.ipynb
-└── hubert_train.ipynb
+└──  requirements.txt
+
 
 ```
 
