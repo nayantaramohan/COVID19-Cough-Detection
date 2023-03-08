@@ -78,11 +78,11 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 <img src="https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/images/proposed-solution.png" width="600"> 
 
 ## Snapshots of Analyses 
-<img src="https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/images/iteration-training-loss.png" align=left width="470"> 
-<img src="https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/images/iteration-training-loss.png" align=right width="470">  
-<img src="https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/images/epoch-train-accu.png" align=left width="470"> 
-<img src="https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/images/epoch-val-accu.png" align=right width="470">  
-<img src="https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/images/confusion-matrix.png" align=centre width="470"> 
+<img src="https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/images/iteration-training-loss.png" align=left width="460"> 
+<img src="https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/images/iteration-validation-loss.png" align=right width="460">  
+<img src="https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/images/epoch-train-accu.png" align=left width="460"> 
+<img src="https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/images/epoch-val-accu.png" align=right width="460">  
+<img src="https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/images/confusion-matrix.png" align=centre width="460"> 
 
 ## Result  
 <img src="https://github.com/nayantaramohan/DATA-591-Team-Virufy/blob/main/images/metric-results.png" align=centre width="200">  
